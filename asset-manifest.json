@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/resume_project.github.io/static/css/main.95f5cb58.css",
+    "main.js": "/resume_project.github.io/static/js/main.d15f64b1.js",
+    "static/js/787.ae473870.chunk.js": "/resume_project.github.io/static/js/787.ae473870.chunk.js",
+    "static/media/resume_1.jpg": "/resume_project.github.io/static/media/resume_1.80d381099235f8b10706.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/resume_project.github.io/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/about_1.jpg": "/resume_project.github.io/static/media/about_1.92762da5406aff76c72a.jpg",
+    "static/media/contact_1.jpg": "/resume_project.github.io/static/media/contact_1.7c1fd4748f8786af671d.jpg",
+    "static/media/fontawesome-webfont.eot": "/resume_project.github.io/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/resume_project.github.io/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/portfolio_7.jpg": "/resume_project.github.io/static/media/portfolio_7.9a287c4491896470f6cc.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/resume_project.github.io/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/resume_project.github.io/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/resume_project.github.io/index.html",
+    "main.95f5cb58.css.map": "/resume_project.github.io/static/css/main.95f5cb58.css.map",
+    "main.d15f64b1.js.map": "/resume_project.github.io/static/js/main.d15f64b1.js.map",
+    "787.ae473870.chunk.js.map": "/resume_project.github.io/static/js/787.ae473870.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95f5cb58.css",
+    "static/js/main.d15f64b1.js"
+  ]
+}
